@@ -6,5 +6,6 @@ import (
 
 func main() {
 	//BUM
+	//BUM_2
 	cmd.Execute()
 }

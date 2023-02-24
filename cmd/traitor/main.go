@@ -14,9 +14,5 @@ func main() {
 	//TOP_2
 	//TOP_3
 
-	//1
-	//2
-	//3
-
 	cmd.Execute()
 }

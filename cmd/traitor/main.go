@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	//TOP
+	//END
 
 	cmd.Execute()
 }
